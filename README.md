@@ -1,2 +1,2 @@
 # axios-fakestore
-Repositório para denostrar a utilizando do Axios, FakeStoreAPI e Vite
+Repositório para demostrar a utilizando do Axios, FakeStoreAPI e Vite
